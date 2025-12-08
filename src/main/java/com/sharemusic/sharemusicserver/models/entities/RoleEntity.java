@@ -14,6 +14,7 @@ public class RoleEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long Role_id;
 
+
     @ManyToOne
     @JoinColumn(name = "user_id")
     UserEntity user;

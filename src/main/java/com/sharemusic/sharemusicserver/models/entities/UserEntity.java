@@ -33,6 +33,7 @@ public class UserEntity {
         this.email = email;
     }
 
+
     public void addRole(RoleEntity role) {
         user_roles.add(role);
         role.user = this;

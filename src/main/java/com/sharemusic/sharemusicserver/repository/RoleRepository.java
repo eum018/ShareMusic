@@ -11,3 +11,4 @@ public interface RoleRepository  extends JpaRepository<RoleEntity, Long> {
     RoleEntity findByUser(UserEntity user);
 
 }
+

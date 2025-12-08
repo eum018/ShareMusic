@@ -43,5 +43,6 @@ public class SseController {
 
         return ResponseEntity.ok(response);
 
+
     }
 }

@@ -15,3 +15,4 @@ public class VerifyUserResponseDto {
     String name;
     String user_id;
 }
+

@@ -18,4 +18,5 @@ public class RegistUserResponseDto {
         this.status = status;
     }
 
+
 }
