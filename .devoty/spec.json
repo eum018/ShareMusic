@@ -2,10 +2,10 @@
   "features": [
     {
       "id": "f-1",
-      "name": "dfgdf",
+      "name": "title",
       "status": "planned",
-      "note": "dfgdfg",
-      "description": "dfgdgdgdg"
+      "note": "one-line-content",
+      "description": "description"
     }
   ]
 }
