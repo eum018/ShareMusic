@@ -1,11 +1,3 @@
 {
-  "features": [
-    {
-      "id": "f-1",
-      "name": "title",
-      "status": "planned",
-      "note": "one-line-content",
-      "description": "description"
-    }
-  ]
+  "features": []
 }
